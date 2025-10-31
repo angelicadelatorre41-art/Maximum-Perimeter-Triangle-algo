@@ -1,1 +1,1 @@
-# Maximum-Perimeter-Triangle-algo
+# Maximum-Perimeter-Triangle-algo The program sorts the stick lengths and checks from the largest possible triplet down to find the triangle with the greatest perimeter that satisfies the triangle inequality rule. If no valid triangle can be formed, it returns -1.
